@@ -28,3 +28,4 @@ I decided to write a second post so I can see how the blog would look if I start
 
 ![Try 10](../skills-github-pages/images/giphy.gif)
 
+![Try 11](https://github.com/PulsarJames/skills-github-pages/blob/main/docs/assets/images/giphy.gif)
