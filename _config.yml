@@ -1,4 +1,5 @@
-remote_theme: pages-themes/modernist@v0.2.0
+#remote_theme: pages-themes/modernist@v0.2.0
+theme: minima
 title: JC's Blog
 author: JC
 description: My incredible description"
