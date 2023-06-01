@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: JC Blog
 ---
 
+This is a blog post I suppose.
