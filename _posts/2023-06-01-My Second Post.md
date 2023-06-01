@@ -29,3 +29,23 @@ I decided to write a second post so I can see how the blog would look if I start
 ![Try 10](../skills-github-pages/images/giphy.gif)
 
 ![Try 11](https://github.com/PulsarJames/skills-github-pages/blob/main/docs/assets/images/giphy.gif)
+
+![Try 12](./docs/assets/images/giphy.gif)
+
+![Try 13](./assets/images/giphy.gif)
+
+![Try 14](./images/giphy.gif)
+
+![Try 15](./giphy.gif)
+
+![Try 16](./docs/assets/images/giphy.gif)
+
+![Try 17](./assets/images/giphy.gif)
+
+![Try 18](./images/giphy.gif)
+
+![Try 19](./giphy.gif)
+
+![Try 20](./skills-github-pages/assets/giphy.gif)
+
+![Try 21](./skills-github-pages/images/giphy.gif)
