@@ -53,6 +53,8 @@ I decided to write a second post so I can see how the blog would look if I start
 
 ![Try 22](/skills-github-pages/MDot.gif)
 
+![Try 22.5](/skills-github-pages/docs/assets/images/giphy.gif)
+
 ![Try 23](/MDot.gif)
 
 ![Try 24](./skills-github-pages/MDot.gif)
