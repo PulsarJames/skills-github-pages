@@ -4,6 +4,7 @@ date: 2023-06-01 13:10:00 +0100
 ---
 I decided to write a second post so I can see how the blog would look if I started adding more posts.
 
+
 ![Try 1](skills-github-pages/docs/assets/images/giphy.gif)
 
 ![Try 1.5](/docs/assets/images/giphy.gif)
@@ -49,3 +50,13 @@ I decided to write a second post so I can see how the blog would look if I start
 ![Try 20](./skills-github-pages/assets/giphy.gif)
 
 ![Try 21](./skills-github-pages/images/giphy.gif)
+
+![Try 22](/skills-github-pages/MDot.gif)
+
+![Try 23](/MDot.gif)
+
+![Try 24](./skills-github-pages/MDot.gif)
+
+![Try 25](./MDot.gif)
+
+
